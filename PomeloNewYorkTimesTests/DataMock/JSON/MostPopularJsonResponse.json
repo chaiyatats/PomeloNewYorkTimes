@@ -1,0 +1,1204 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/3b8c571b-346a-5c5a-88ac-a11f82712e48",
+            "url": "https://www.nytimes.com/2022/03/25/arts/music/taylor-hawkins-foo-fighters-dead.html",
+            "id": 100000008273204,
+            "asset_id": 100000008273204,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 22:49:47",
+            "section": "Arts",
+            "subsection": "Music",
+            "nytdsection": "arts",
+            "adx_keywords": "Deaths (Obituaries);Pop and Rock Music;Drums;Hawkins, Taylor (1972-2022);Foo Fighters",
+            "column": null,
+            "byline": "By Caryn Ganz and Joe Coscarelli",
+            "type": "Article",
+            "title": "Taylor Hawkins, Foo Fighters’ Drummer, Dies at 50",
+            "abstract": "Hard-hitting and charismatic, he was direct about his hopes for the group’s future, even after two decades. “I want to be the biggest band in the world,” he said.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Pop and Rock Music",
+                "Drums"
+            ],
+            "org_facet": [
+                "Foo Fighters"
+            ],
+            "per_facet": [
+                "Hawkins, Taylor (1972-2022)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Taylor Hawkins of Foo Fighters at a concert in New York City last November.",
+                    "copyright": "Nina Westervelt for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/arts/25hawkins-print1-sub/25hawkins-new-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/arts/25hawkins-print1-sub/merlin_198228096_dd23d70a-2cd4-4adc-8935-c88c0a937afd-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/arts/25hawkins-print1-sub/merlin_198228096_dd23d70a-2cd4-4adc-8935-c88c0a937afd-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2a554d13-5c1e-5a0d-811e-7ae5540ca868",
+            "url": "https://www.nytimes.com/2022/03/25/us/politics/biden-second-booster-shot-older-americans.html",
+            "id": 100000008266571,
+            "asset_id": 100000008266571,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 23:33:49",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Drugs (Pharmaceuticals);United States Politics and Government;Food and Drug Administration;Centers for Disease Control and Prevention;BioNTech SE;Pfizer Inc;Moderna Inc",
+            "column": null,
+            "byline": "By Sharon LaFraniere",
+            "type": "Article",
+            "title": "Biden Administration Plans to Offer Second Booster Shots to Those 50 and Up",
+            "abstract": "After fraught discussions, officials decided that another shot might save thousands of lives if a new coronavirus wave hit before the fall. The F.D.A. could authorize the boosters next week.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Drugs (Pharmaceuticals)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Food and Drug Administration",
+                "Centers for Disease Control and Prevention",
+                "BioNTech SE",
+                "Pfizer Inc",
+                "Moderna Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A medical worker administered a booster shot in January. Major uncertainties have complicated the decision about offering a second booster shot.",
+                    "copyright": "Rory Doyle for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/us/politics/27dc-boosters-print1/merlin_200008530_6afe70f1-add0-4cd6-8a86-e98bf2e4c108-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/us/politics/27dc-boosters-print1/merlin_200008530_6afe70f1-add0-4cd6-8a86-e98bf2e4c108-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/us/politics/27dc-boosters-print1/merlin_200008530_6afe70f1-add0-4cd6-8a86-e98bf2e4c108-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cc6218d3-99db-5926-847c-aeabbd13ad69",
+            "url": "https://www.nytimes.com/2022/03/25/world/europe/putin-cancel-culture-rowling.html",
+            "id": 100000008272500,
+            "asset_id": 100000008272500,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 01:00:20",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Cancel Culture;Gergiev, Valery;Putin, Vladimir V;Rowling, J K;Bolshoi Theater;Mariinsky Theater;Munich Philharmonic;Russia",
+            "column": null,
+            "byline": "By Anton Troianovski and Javier C. Hernández",
+            "type": "Article",
+            "title": "Putin Goes Into Battle on a Second Front: Culture",
+            "abstract": "In a blast against “cancel culture,” he said the West is “canceling” Russia by going after “an entire thousand-year-old country, our people.”",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Cancel Culture"
+            ],
+            "org_facet": [
+                "Bolshoi Theater",
+                "Mariinsky Theater",
+                "Munich Philharmonic"
+            ],
+            "per_facet": [
+                "Gergiev, Valery",
+                "Putin, Vladimir V",
+                "Rowling, J K"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Vladimir V. Putin of Russia delivering an address Friday on \"cancel culture” that was broadcast nationwide.",
+                    "copyright": "Pool photo by Mikhail Klimentyev",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/world/25ukraine-blog-russia-cancel-top/25ukraine-blog-russia-cancel-top-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/world/25ukraine-blog-russia-cancel-top/25ukraine-blog-russia-cancel-top-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/world/25ukraine-blog-russia-cancel-top/25ukraine-blog-russia-cancel-top-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c81fed8f-49cc-52e2-9984-6f49a104b9bb",
+            "url": "https://www.nytimes.com/2022/03/25/us/ginni-thomas-january-6-committee.html",
+            "id": 100000008272516,
+            "asset_id": 100000008272516,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-25 23:54:56",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Storming of the US Capitol (Jan, 2021);Presidential Election of 2020;Project: Democracy;United States Politics and Government;Thomas, Virginia Lamp;Thomas, Clarence;Cheney, Liz;House of Representatives;Supreme Court (US)",
+            "column": null,
+            "byline": "By Luke Broadwater, Jo Becker, Maggie Haberman and Alan Feuer",
+            "type": "Article",
+            "title": "Ginni Thomas Texts Expose Rift in House Jan. 6 Panel",
+            "abstract": "There is debate within the committee investigating the assault on the Capitol over whether to seek testimony from the wife of Justice Clarence Thomas about her efforts to overturn the 2020 election.",
+            "des_facet": [
+                "Storming of the US Capitol (Jan, 2021)",
+                "Presidential Election of 2020",
+                "Project: Democracy",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "House of Representatives",
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Thomas, Virginia Lamp",
+                "Thomas, Clarence",
+                "Cheney, Liz"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Liz Cheney, the top Republican investigating Jan. 6, has wanted to avoid any aggressive effort to pursue Virginia Thomas that, in her view, could unfairly target her husband, Justice Clarence Thomas.",
+                    "copyright": "Stefani Reynolds for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/us/politics/25dc-investigate1/25dc-investigate1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/us/politics/25dc-investigate1/merlin_199257039_ee341056-84ce-4add-9d5c-9c4ac983ec24-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/us/politics/25dc-investigate1/merlin_199257039_ee341056-84ce-4add-9d5c-9c4ac983ec24-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e18b086b-0d50-59e0-a208-00cf3f128d14",
+            "url": "https://www.nytimes.com/2022/03/25/climate/east-antarctica-ice-shelf-collapse.html",
+            "id": 100000008272518,
+            "asset_id": 100000008272518,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 13:21:34",
+            "section": "Climate",
+            "subsection": "",
+            "nytdsection": "climate",
+            "adx_keywords": "Glaciers;Global Warming;Antarctic Regions",
+            "column": null,
+            "byline": "By Henry Fountain",
+            "type": "Article",
+            "title": "In a First, an Ice Shelf Collapses in East Antarctica",
+            "abstract": "Scientists say a period of unusual weather, combined with record-low sea ice, led to the disintegration of the Conger ice shelf.",
+            "des_facet": [
+                "Glaciers",
+                "Global Warming"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Antarctic Regions"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A satellite image taken over East Antarctica on March 17 shows the largest fragment of the collapsed Conger ice shelf, an iceberg named C-38.",
+                    "copyright": "U.S. National Ice Center, via Agence France-Presse —Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/climate/25cli-antarctica/25cli-antarctica-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/climate/25cli-antarctica/25cli-antarctica-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/climate/25cli-antarctica/25cli-antarctica-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0322208e-dc63-54ec-b9be-e0e1e6dc08d2",
+            "url": "https://www.nytimes.com/2022/03/26/us/georgia-governor-trump-perdue-kemp.html",
+            "id": 100000008268284,
+            "asset_id": 100000008268284,
+            "source": "New York Times",
+            "published_date": "2022-03-26",
+            "updated": "2022-03-26 23:36:53",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Endorsements;Elections, Governors;Elections;Governors (US);Abrams, Stacey Y;Greene, Marjorie Taylor (1974- );Hice, Jody (1960- );Jones, Vernon (1960- );Kemp, Brian P;Perdue, David A Jr;Trump, Donald J;Republican Party;Republican Governors Assn;Georgia;Atlanta (Ga)",
+            "column": null,
+            "byline": "By Maya King",
+            "type": "Article",
+            "title": "In Georgia, Trump Tries to Revive a Sputtering Campaign",
+            "abstract": "The former president held a rally in rural Georgia on Saturday in an attempt to jump-start David Perdue’s campaign to unseat Gov. Brian Kemp.",
+            "des_facet": [
+                "Endorsements",
+                "Elections, Governors",
+                "Elections",
+                "Governors (US)"
+            ],
+            "org_facet": [
+                "Republican Party",
+                "Republican Governors Assn"
+            ],
+            "per_facet": [
+                "Abrams, Stacey Y",
+                "Greene, Marjorie Taylor (1974- )",
+                "Hice, Jody (1960- )",
+                "Jones, Vernon (1960- )",
+                "Kemp, Brian P",
+                "Perdue, David A Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Georgia",
+                "Atlanta (Ga)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "David Perdue, who is trying to unseat Brian Kemp as governor, speaks at the “Save America” rally in Commerce, Ga., on Saturday.",
+                    "copyright": "Audra Melton for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/26/multimedia/26pol-perdue-01x/26pol-perdue-01x-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/26/multimedia/26pol-perdue-01x/26pol-perdue-01x-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/26/multimedia/26pol-perdue-01x/26pol-perdue-01x-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7d496e5b-b8f0-5f7f-82b2-62d00701a755",
+            "url": "https://www.nytimes.com/2022/03/25/world/americas/royal-couple-caribbean-visit.html",
+            "id": 100000008272120,
+            "asset_id": 100000008272120,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 13:30:56",
+            "section": "World",
+            "subsection": "Americas",
+            "nytdsection": "world",
+            "adx_keywords": "Royal Families;Politics and Government;Constitutions;Slavery (Historical);International Relations;Colonization;William, Duke of Cambridge;Catherine, Duchess of Cambridge;Elizabeth II, Queen of Great Britain;Great Britain;Caribbean Area;Jamaica (West Indies);Barbados",
+            "column": null,
+            "byline": "By Mark Landler",
+            "type": "Article",
+            "title": "Gaffes and Miscues Mar a Royal Tour of a Republic-Minded Caribbean",
+            "abstract": "The trip by Prince William and his wife, Catherine, the duchess of Cambridge, dramatized how rapidly Queen Elizabeth II is losing her grip on distant dominions where she is still head of state.",
+            "des_facet": [
+                "Royal Families",
+                "Politics and Government",
+                "Constitutions",
+                "Slavery (Historical)",
+                "International Relations",
+                "Colonization"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "William, Duke of Cambridge",
+                "Catherine, Duchess of Cambridge",
+                "Elizabeth II, Queen of Great Britain"
+            ],
+            "geo_facet": [
+                "Great Britain",
+                "Caribbean Area",
+                "Jamaica (West Indies)",
+                "Barbados"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince William and Catherine, Duchess of Cambridge, in Kingston, Jamaica, on Tuesday.",
+                    "copyright": "Pool photo by Chris Jackson",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/world/25UK-ROYALS1/25UK-ROYALS1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/world/25UK-ROYALS1/merlin_204325944_073ede63-bf35-4335-ae10-392f6eaff076-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/world/25UK-ROYALS1/merlin_204325944_073ede63-bf35-4335-ae10-392f6eaff076-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c98245f7-947a-590a-8de9-fe5cc539e18c",
+            "url": "https://www.nytimes.com/2022/03/24/style/ketanji-brown-jackson-daughter-photo.html",
+            "id": 100000008269880,
+            "asset_id": 100000008269880,
+            "source": "New York Times",
+            "published_date": "2022-03-24",
+            "updated": "2022-03-24 18:46:50",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Photography;Appointments and Executive Changes;United States Politics and Government;Jackson, Ketanji Brown (1970- );Jackson, Leila A;Maney, Sarahbeth;Supreme Court (US);New York Times",
+            "column": null,
+            "byline": "By Gina Cherelus",
+            "type": "Article",
+            "title": "The Story Behind That Photo of Ketanji Brown Jackson and Her Daughter",
+            "abstract": "A Times photographer talks about documenting history and pride at the Supreme Court confirmation hearings.",
+            "des_facet": [
+                "Photography",
+                "Appointments and Executive Changes",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Supreme Court (US)",
+                "New York Times"
+            ],
+            "per_facet": [
+                "Jackson, Ketanji Brown (1970- )",
+                "Jackson, Leila A",
+                "Maney, Sarahbeth"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leila Jackson, right, on the first day of the Supreme Court confirmation hearings for her mother, Judge Ketanji Brown Jackson, center.",
+                    "copyright": "Sarahbeth Maney/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/multimedia/24KBJ-DAUGHTER-1/24KBJ-DAUGHTER-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/multimedia/24KBJ-DAUGHTER-1/24KBJ-DAUGHTER-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/multimedia/24KBJ-DAUGHTER-1/24KBJ-DAUGHTER-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/64ec6408-412a-5e94-bf84-d196f7f57e25",
+            "url": "https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html",
+            "id": 100000008273356,
+            "asset_id": 100000008273356,
+            "source": "New York Times",
+            "published_date": "2022-03-26",
+            "updated": "2022-03-26 22:13:52",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);War and Armed Conflicts;Putin, Vladimir V;Biden, Joseph R Jr;Ukraine;Russia",
+            "column": null,
+            "byline": "By Michael D. Shear and Zolan Kanno-Youngs",
+            "type": "Article",
+            "title": "Biden denounces Russian invasion, casting it as part of a decades-long attempt to crush democracies.",
+            "abstract": "Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.”",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Ukraine",
+                "Russia"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d8f1e356-a987-5014-8d31-76e28bea3638",
+            "url": "https://www.nytimes.com/2022/03/26/crosswords/spelling-bee-forum.html",
+            "id": 100000008264484,
+            "asset_id": 100000008264484,
+            "source": "New York Times",
+            "published_date": "2022-03-26",
+            "updated": "2022-03-26 03:00:03",
+            "section": "Gameplay",
+            "subsection": "",
+            "nytdsection": "gameplay",
+            "adx_keywords": "",
+            "column": null,
+            "byline": "By Isaac Aronow and Doug Mennella",
+            "type": "Article",
+            "title": "Spelling Bee Forum",
+            "abstract": "Feeling stuck on today’s puzzle? We can help.",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "FREDERICK FLORIN/AFP/GettyImages",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/26/crosswords/26bee-forum-sat/26bee-forum-sat-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/26/crosswords/26bee-forum-sat/26bee-forum-sat-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/26/crosswords/26bee-forum-sat/26bee-forum-sat-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/89018169-76c0-5321-b888-ef1a69b1753e",
+            "url": "https://www.nytimes.com/2022/03/23/well/how-to-do-squats.html",
+            "id": 100000008232482,
+            "asset_id": 100000008232482,
+            "source": "New York Times",
+            "published_date": "2022-03-23",
+            "updated": "2022-03-23 16:58:10",
+            "section": "Well",
+            "subsection": "",
+            "nytdsection": "well",
+            "adx_keywords": "Exercise;Muscles;Knees;Content Type: Service",
+            "column": null,
+            "byline": "By Gretchen Reynolds and Brown Bird Design",
+            "type": "Article",
+            "title": "The Power of the Squat",
+            "abstract": "It’s the one exercise most of us should be doing. But we need to do it right.",
+            "des_facet": [
+                "Exercise",
+                "Muscles",
+                "Knees",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jill Brady/Portland Portland Press Herald via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/23/well/23well-squats/23well-squats-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/23/well/23well-squats/23well-squats-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/23/well/23well-squats/23well-squats-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/08278b16-02bf-5935-a049-adc7e0ad7c95",
+            "url": "https://www.nytimes.com/2022/03/25/us/ketanji-brown-jackson-black-women.html",
+            "id": 100000008271772,
+            "asset_id": 100000008271772,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 16:28:23",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Black People;Women and Girls;Courts and the Judiciary;Appointments and Executive Changes;United States Politics and Government;Jackson, Ketanji Brown (1970- );Senate Committee on the Judiciary;Republican Party;Supreme Court (US)",
+            "column": null,
+            "byline": "By Patricia Mazzei, Tariro Mzezewa and Jill Cowan",
+            "type": "Article",
+            "title": "How Black Women Saw Ketanji Brown Jackson’s Confirmation Hearing",
+            "abstract": "Watching the Supreme Court nominee was a major moment, but her treatment by Republican senators felt all too familiar. “Every Black woman speaks that language,” one woman said.",
+            "des_facet": [
+                "Black People",
+                "Women and Girls",
+                "Courts and the Judiciary",
+                "Appointments and Executive Changes",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Senate Committee on the Judiciary",
+                "Republican Party",
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Jackson, Ketanji Brown (1970- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Judge Ketanji Brown Jackson faced questions from Republicans on the Senate Judiciary Committee about critical race theory and gender identity.",
+                    "copyright": "Hilary Swift for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/us/25jackson-react03/25jackson-react03-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/us/25jackson-react03/merlin_204306207_aa17ced3-9951-482b-97d3-575f9942bb5c-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/us/25jackson-react03/merlin_204306207_aa17ced3-9951-482b-97d3-575f9942bb5c-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d466b529-7912-5ab9-ac6b-c185a06bf219",
+            "url": "https://www.nytimes.com/2022/02/08/movies/stream-oscars-nominated-movies.html",
+            "id": 100000008197454,
+            "asset_id": 100000008197454,
+            "source": "New York Times",
+            "published_date": "2022-02-08",
+            "updated": "2022-02-14 11:08:24",
+            "section": "Movies",
+            "subsection": "",
+            "nytdsection": "movies",
+            "adx_keywords": "Movies;Academy Awards (Oscars);Video Recordings, Downloads and Streaming",
+            "column": null,
+            "byline": "By Scott Tobias",
+            "type": "Article",
+            "title": "Where to Stream ‘The Power of the Dog,’ ‘Belfast’ and More 2022 Oscar Nominees",
+            "abstract": "Most of the top contenders can be watched at home. Here’s a guide to help you get a jump on the field.",
+            "des_facet": [
+                "Movies",
+                "Academy Awards (Oscars)",
+                "Video Recordings, Downloads and Streaming"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Judi Dench, Jude Hill and Ciaran Hinds in “Belfast,” one of the Oscar-nominated films available to stream.",
+                    "copyright": "Rob Youngson/Focus Features",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/02/08/arts/08oscars-stream/08oscars-stream-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/02/08/arts/08oscars-stream/08oscars-stream-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/02/08/arts/08oscars-stream/08oscars-stream-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7cb4455f-2e36-588c-b725-1fb2a060515f",
+            "url": "https://www.nytimes.com/2022/03/25/opinion/oscars-movies-end.html",
+            "id": 100000008266165,
+            "asset_id": 100000008266165,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 15:39:08",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Movies;Academy Awards (Oscars);Television;Actors and Actresses;Nineteen Hundred Nineties",
+            "column": null,
+            "byline": "By Ross Douthat",
+            "type": "Article",
+            "title": "We Aren’t Just Watching the Decline of the Oscars. We’re Watching the End of the Movies.",
+            "abstract": "Why big-screen entertainment is no longer the essential American popular art form.",
+            "des_facet": [
+                "Movies",
+                "Academy Awards (Oscars)",
+                "Television",
+                "Actors and Actresses",
+                "Nineteen Hundred Nineties"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Max Guther",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/opinion/sunday/25douthat_print/25douthat_print-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/opinion/sunday/25douthat_print/25douthat_print-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/opinion/sunday/25douthat_print/25douthat_print-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/00969d93-2702-5ea0-a61e-73f4b59e7ea6",
+            "url": "https://www.nytimes.com/2022/03/25/well/male-birth-control-pills.html",
+            "id": 100000008271258,
+            "asset_id": 100000008271258,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-25 17:28:45",
+            "section": "Well",
+            "subsection": "",
+            "nytdsection": "well",
+            "adx_keywords": "Testosterone;Birth Control and Family Planning",
+            "column": null,
+            "byline": "By Dani Blum",
+            "type": "Article",
+            "title": "Despite Encouraging Research, a Male Birth Control Pill Remains Elusive",
+            "abstract": "A new study found that a birth control pill was 99 percent effective in preventing pregnancy in mice. But don’t expect a human version to hit the shelves any time soon.",
+            "des_facet": [
+                "Testosterone",
+                "Birth Control and Family Planning"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Basak Gurbuz Derman/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/well/25well-male-birthcontrol/25well-male-birthcontrol-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/well/25well-male-birthcontrol/25well-male-birthcontrol-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/well/25well-male-birthcontrol/25well-male-birthcontrol-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5488eadc-586f-52e2-bbc8-47c059a32cc3",
+            "url": "https://www.nytimes.com/2022/03/25/us/ted-cruz-antiracist-school.html",
+            "id": 100000008271339,
+            "asset_id": 100000008271339,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 12:40:30",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Education (K-12);Race and Ethnicity;Black People;Discrimination;Critical Race Theory;Private and Sectarian Schools;United States Politics and Government;Jackson, Ketanji Brown (1970- );Cruz, Ted;Senate;Supreme Court (US);Georgetown Day School (Washington, DC)",
+            "column": null,
+            "byline": "By Vimal Patel",
+            "type": "Article",
+            "title": "Ted Cruz’s Daughters Attend a Private School That Is ‘Antiracist’",
+            "abstract": "The Texas senator aggressively questioned Judge Ketanji Brown Jackson this week for serving on the board of a school “overflowing with critical race theory.”",
+            "des_facet": [
+                "Education (K-12)",
+                "Race and Ethnicity",
+                "Black People",
+                "Discrimination",
+                "Critical Race Theory",
+                "Private and Sectarian Schools",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Senate",
+                "Supreme Court (US)",
+                "Georgetown Day School (Washington, DC)"
+            ],
+            "per_facet": [
+                "Jackson, Ketanji Brown (1970- )",
+                "Cruz, Ted"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Judge Ketanji Brown Jackson is a member of the board of trustees at Georgetown Day School, a private school in Northwest Washington where tuition costs more than $40,000 a year.",
+                    "copyright": "T.J. Kirkpatrick for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/multimedia/24xp-Cruz/merlin_204404142_adb47d6e-0642-4ad6-a852-7889df4962a8-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/multimedia/24xp-Cruz/merlin_204404142_adb47d6e-0642-4ad6-a852-7889df4962a8-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/multimedia/24xp-Cruz/merlin_204404142_adb47d6e-0642-4ad6-a852-7889df4962a8-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/39539ea1-5754-5c0b-ba6a-39b533d183fb",
+            "url": "https://www.nytimes.com/2022/03/22/well/live/preventative-botox-wrinkles.html",
+            "id": 100000008179292,
+            "asset_id": 100000008179292,
+            "source": "New York Times",
+            "published_date": "2022-03-22",
+            "updated": "2022-03-22 03:00:09",
+            "section": "Well",
+            "subsection": "Live",
+            "nytdsection": "well",
+            "adx_keywords": "Botox (Drug);Skin;Content Type: Service;Face;Women and Girls;Doctors;Age, Chronological;Plastic Surgery;Luxury Goods and Services",
+            "column": null,
+            "byline": "By Amelia Nierenberg",
+            "type": "Article",
+            "title": "Will Getting Botox Now Prevent Future Wrinkles?",
+            "abstract": "Or are injections just a temporary, addictive fix?",
+            "des_facet": [
+                "Botox (Drug)",
+                "Skin",
+                "Content Type: Service",
+                "Face",
+                "Women and Girls",
+                "Doctors",
+                "Age, Chronological",
+                "Plastic Surgery",
+                "Luxury Goods and Services"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Aileen Son for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/14/well/14askwell-botox-promo/14askwell-botox-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/14/well/14askwell-botox-promo/14askwell-botox-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/14/well/14askwell-botox-promo/14askwell-botox-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f7f5a5e8-8c41-5f32-81c8-8eecaac0ede1",
+            "url": "https://www.nytimes.com/2022/03/25/sports/ncaabasketball/march-madness-scores.html",
+            "id": 100000008267255,
+            "asset_id": 100000008267255,
+            "source": "New York Times",
+            "published_date": "2022-03-25",
+            "updated": "2022-03-26 08:43:40",
+            "section": "Sports",
+            "subsection": "College Basketball",
+            "nytdsection": "sports",
+            "adx_keywords": "NCAA Basketball Championships (Men);Basketball (College);Iowa State University;North Carolina State University;Purdue University;Texas Tech University;University of California, Los Angeles;University of North Carolina;Villanova University",
+            "column": null,
+            "byline": "By Adam Zagoria and Mitch Smith",
+            "type": "Article",
+            "title": "N.C.A.A. Men’s Tournament: St. Peter’s Extends Its Magical Run to the Round of 8",
+            "abstract": "The Peacocks downed Purdue, 67-64, in the round of 16 and became the first No. 15 seed to reach the round of 8. North Carolina knocked off U.C.L.A., and Kansas and Miami also advanced.",
+            "des_facet": [
+                "NCAA Basketball Championships (Men)",
+                "Basketball (College)"
+            ],
+            "org_facet": [
+                "Iowa State University",
+                "North Carolina State University",
+                "Purdue University",
+                "Texas Tech University",
+                "University of California, Los Angeles",
+                "University of North Carolina",
+                "Villanova University"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "KC Ndefo and Jaylen Murray celebrated as St. Peter’s became the first No. 15 seed to advance to the round of 8.",
+                    "copyright": "Patrick Smith/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/multimedia/25mcbb-tournament-stpeters-wins/25HP-NCAA-end-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/multimedia/25mcbb-tournament-stpeters-wins/25HP-NCAA-end-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/25/multimedia/25mcbb-tournament-stpeters-wins/25HP-NCAA-end-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c9b6718b-bea7-5d1d-8aa1-03e8eff45b8e",
+            "url": "https://www.nytimes.com/2022/03/24/movies/oscars-predictions.html",
+            "id": 100000008269718,
+            "asset_id": 100000008269718,
+            "source": "New York Times",
+            "published_date": "2022-03-24",
+            "updated": "2022-03-26 21:54:56",
+            "section": "Movies",
+            "subsection": "",
+            "nytdsection": "movies",
+            "adx_keywords": "Movies;Academy Awards (Oscars);Smith, Will;Campion, Jane;Chastain, Jessica;DeBose, Ariana;Kotsur, Troy",
+            "column": null,
+            "byline": "By Kyle Buchanan",
+            "type": "Article",
+            "title": "Oscars 2022 Predictions: Who Will Win Best Picture, Actor and Actress?",
+            "abstract": "In an interesting year with a duel for the top award and some wide-open races, here’s how our expert is marking his ballot.",
+            "des_facet": [
+                "Movies",
+                "Academy Awards (Oscars)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Smith, Will",
+                "Campion, Jane",
+                "Chastain, Jessica",
+                "DeBose, Ariana",
+                "Kotsur, Troy"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Apple TV+, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/arts/24oscar-predix-combo/24oscar-predix-combo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/arts/24oscar-predix-combo/24oscar-predix-combo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/24/arts/24oscar-predix-combo/24oscar-predix-combo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9b9a9873-0deb-5757-850d-5d1ebc9efc97",
+            "url": "https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html",
+            "id": 100000008270306,
+            "asset_id": 100000008270306,
+            "source": "New York Times",
+            "published_date": "2022-03-26",
+            "updated": "2022-03-26 22:33:45",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Politics and Government;Russian Invasion of Ukraine (2022);War and Armed Conflicts;Putin, Vladimir V",
+            "column": null,
+            "byline": "By Roger Cohen",
+            "type": "Article",
+            "title": "The Making of Vladimir Putin",
+            "abstract": "The 22-year arc of the Russian president’s exercise of power is a study in audacity.",
+            "des_facet": [
+                "Politics and Government",
+                "Russian Invasion of Ukraine (2022)",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Vladimir V. Putin of Russia during a New York Times interview in 2003.",
+                    "copyright": "James Hill for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/world/27putin-p1/merlin_54786172_175f1038-cccc-4f09-b542-36ab8c31ecfd-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/world/27putin-p1/merlin_54786172_175f1038-cccc-4f09-b542-36ab8c31ecfd-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/03/27/world/27putin-p1/merlin_54786172_175f1038-cccc-4f09-b542-36ab8c31ecfd-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

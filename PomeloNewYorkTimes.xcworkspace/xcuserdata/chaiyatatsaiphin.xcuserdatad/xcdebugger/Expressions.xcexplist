@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MostPopularUsecaseImpl.execute(periodTime:):MostPopularUsecase.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "FirestoreManager.shared.getApiKey()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in ViewController.viewDidLoad():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.viewDidLoad():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MostPopularViewModel.fetchMostPopular(periodTime:):MostPopularViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ArticleSearchUsecaseImpl.execute(keyWord:page:):ArticleSearchUsecase.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "FirestoreManager.shared.getApiKey()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
