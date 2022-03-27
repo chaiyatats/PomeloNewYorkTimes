@@ -18,6 +18,7 @@ final class DetailViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setupWebView()
+        setupNaviation()
     }
     
     func configure(viewModel: DetailViewModel) {
@@ -28,6 +29,21 @@ final class DetailViewController: UIViewController {
         webView.navigationDelegate = self
         webView.uiDelegate = self
         webView.load(URLRequest(url: viewModel.getUrl()))
+    }
+    
+    private func setupNaviation() {
+        
+        let backButton = UIButton(type: .custom)
+        backButton.setImage(UIImage(named: "back_icon"), for: .normal)
+        backButton.frame = CGRect(x: 0, y: 0, width: 30, height: 30)
+        backButton.addTarget(self, action: #selector(backPage), for: .touchUpInside)
+        let backBarButton = UIBarButtonItem(customView: backButton)
+        
+        navigationItem.leftBarButtonItem = backBarButton
+    }
+    
+    @objc func backPage() {
+        self.navigationController?.popViewController(animated: true)
     }
 }
 

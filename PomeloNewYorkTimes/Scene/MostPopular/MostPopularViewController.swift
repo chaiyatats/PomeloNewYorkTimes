@@ -28,8 +28,17 @@ final class MostPopularViewController: UIViewController {
     }
     
     private func setupNaviation() {
-        let filterButton = UIBarButtonItem(image: UIImage(named: "filter_icon"), style: .plain, target: self, action: #selector(openFilter))
-        navigationItem.rightBarButtonItems = [filterButton]
+        
+        self.navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.font: UIFont(name: "Chomsky", size: 30)!]
+        self.title = "The New York Times"
+        
+        let filterButton = UIButton(type: .custom)
+        filterButton.setImage(UIImage(named: "filter_icon"), for: .normal)
+        filterButton.frame = CGRect(x: 0, y: 0, width: 30, height: 30)
+        filterButton.addTarget(self, action: #selector(openFilter), for: .touchUpInside)
+        let filterBarButton = UIBarButtonItem(customView: filterButton)
+        
+        navigationItem.rightBarButtonItems = [filterBarButton]
     }
     
     private func binding() {
@@ -86,7 +95,7 @@ extension MostPopularViewController: UITableViewDelegate {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return viewModel.output.getNumberOfRow()
     }
-       
+    
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return UITableView.automaticDimension
     }
